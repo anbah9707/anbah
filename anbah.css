@@ -10,5 +10,6 @@ body {
 . btn {
     background-color: rgb(225, 9, 9);
     padding: 20px 40px;
+    border-radius: 5px;
 
 }
