@@ -29,4 +29,5 @@ body {
     height: 0;
     left: var(--xPos);
     top: var(--yPos);
+    transform: translate(-50%, -50%);
 }
